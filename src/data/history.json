@@ -1,0 +1,31 @@
+[
+    {
+      "role": "IT Support Technician",
+      "organisation": "Maibornwolff SL",
+      "startDate": "May, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked with Jira, ServiceNow and Confluence", 
+      "Supporting colleagues on daily-basis in person or via those systems"],
+      "imageSrc": "history/mw_logo.png"
+    },
+    {
+      "role": "Customer Support Agent",
+      "organisation": "Fantastic Services",
+      "startDate": "March, 2021",
+      "endDate": "Sept, 2021",
+      "experiences": ["Worked with UK customers over phone, chat and email", 
+      "Resolved complaints regarding provided services"],
+      "imageSrc": "history/fservices.png"
+    },
+    {
+      "role": "SBM(Student Brand Manager)",
+      "organisation": "Red Bull",
+      "startDate": "March, 2017",
+      "endDate": "Sept, 2021",
+      "experiences": [
+        "Worked on campus product distribution",
+        "Organized various gaming events"
+      ],
+      "imageSrc": "history/redbull_logo.png"
+    }
+  ]
