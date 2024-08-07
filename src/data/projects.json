@@ -1,14 +1,14 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "title": "Tattoo Studio Full Stack Project",
+      "imageSrc": "projects/tattoo_studio.png",
+      "description": "This project is build from a REST API backend made by me and conntected to the front via React ",
+      "skills": ["React", "Express", "Node", "MongoDB", "Tailwind", "JWT", "React Router"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": ["Frontend" , "https://github.com/yoanastamenova/Tattoo_Studio--front/tree/bootstrap", "Backend", "https://www.github.com"]
     },
     {
-      "title": "Project B",
+      "title": "Social Media Full Stack Project",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node", "Sass"],
@@ -16,7 +16,7 @@
       "source": "https://www.github.com"
     },
     {
-      "title": "Project C",
+      "title": "InteractiveTV",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node"],
