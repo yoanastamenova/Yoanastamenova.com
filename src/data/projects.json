@@ -1,26 +1,50 @@
 [
     {
-      "title": "Tattoo Studio Full Stack Project",
+      "title": "Nobleart Tattoo Studio - Fullstack Web Page",
       "imageSrc": "projects/tattoo_studio.png",
-      "description": "This project is build from a REST API backend made by me and conntected to the front via React ",
-      "skills": ["React", "Express", "Node", "MongoDB", "Tailwind", "JWT", "React Router"],
+      "description": "This project is build with a REST API made by me and conntected to the front via React ",
+      "skills": ["React", "Express", "Node", "SQL", "Tailwind", "TypeORM", "React Router"],
       "demo": "https://www.example.com",
-      "source": ["Frontend" , "https://github.com/yoanastamenova/Tattoo_Studio--front/tree/bootstrap", "Backend", "https://www.github.com"]
+      "source": ["https://github.com/yoanastamenova/Tattoo_Studio--front/tree/bootstrap"]
     },
     {
-      "title": "Social Media Full Stack Project",
-      "imageSrc": "projects/project.png",
+      "title": "Peak Connect - Fullstack Social Media App",
+      "imageSrc": "projects/social_media.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "skills": ["React", "Express", "Node", "Sass", "MongoDB" ],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/yoanastamenova/Social_media--front"
     },
     {
-      "title": "InteractiveTV",
+      "title": "Bulgarian Tavern",
+      "imageSrc": "projects/restaurant.png",
+      "description": "Frontend project for one of my favourite restaurants.",
+      "skills": ["Bootstrap", "CSS", "HTML"],
+      "demo": "https://yoanastamenova.github.io/RestaurantMenu/",
+      "source": "https://github.com/yoanastamenova/RestaurantMenu"
+    },
+    {
+      "title": "MoviesDB Online",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "A movie frontend made by me using one of the biggest movie APIs.",
+      "skills": ["Bootstrap","CSS", "HTML", "Node", "Express"],
+      "demo": "https://yoanastamenova.github.io/MovieDB/",
+      "source": "https://github.com/yoanastamenova/MovieDB"
+    },
+    {
+      "title": "Airbnb Experiences",
+      "imageSrc": "projects/project.png",
+      "description": "A copy of the famous airbnb experiences website",
+      "skills": ["React", "Figma", "HTML", "CSS", "NodeJS", "Javascript"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/yoanastamenova/Airbnb-experiences"
+    },
+    {
+      "title": "Interactive TV",
+      "imageSrc": "projects/project.png",
+      "description": "An interactive tv with a remote on the side, imitating a real life experience",
+      "skills": ["Javascript", "CSS", "Bootstrap", "HTML"],
+      "demo": "https://github.com/yoanastamenova/InteractiveTV",
+      "source": "https://github.com/yoanastamenova/InteractiveTV"
     }
   ]

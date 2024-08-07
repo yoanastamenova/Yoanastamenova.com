@@ -5,7 +5,7 @@ import styles from "./About.module.css"
 export const About = () => {
   return (
     <section className={styles.container} id="about">
-      <h2 className={styles.title}>Yoana is</h2>
+      <h2 className={styles.title}>More about me</h2>
       <div className={styles.content}>
         <img src={getImageUrl("about/aboutImage.png")} 
         alt="About image" 
@@ -36,7 +36,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
                 <h3>UI Designer</h3>
                 <p>
-                    Desing is one of my favourite parts in development as you can show your style. I designed
+                    I designed
                     various landing pages and created logos for many of my projects.
                 </p>
             </div>
