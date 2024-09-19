@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website, a virtual space crafted with elegance and precision, designed to showcase my skills, projects, and professional journey. Thank you for visiting!
 
-![Portfolio Logo](./dist/assets/aboutImage-CQysVCDY.png)
+<img src="./dist/assets/aboutImage-CQysVCDY.png">
 
 ## Table of Contents 📝
 
