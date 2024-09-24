@@ -23,4 +23,17 @@
   justify-content: center;
   gap: 15px;
   width: 100%;
+  align-items: stretch;
+}
+
+@media (max-width: 768px) {
+  .projects {
+    flex-direction: column; 
+    gap: 20px;
+  }
+
+  .container {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
 }

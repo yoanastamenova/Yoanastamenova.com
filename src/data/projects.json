@@ -1,24 +1,24 @@
 [
     {
-      "title": "Nobleart Tattoo Studio - Fullstack Web Page",
+      "title": "Nobleart Tattoo Studio",
       "imageSrc": "projects/tattoo_studio.png",
       "description": "Web page for a Tattoo Studio with REST API and React",
       "skills": ["React", "Express", "Node", "SQL", "Bootstrap"],
-      "demo": "https://www.example.com",
+      "demo": "https://github.com/yoanastamenova/Tattoo_Studio--front/tree/bootstrap",
       "source": ["https://github.com/yoanastamenova/Tattoo_Studio--front/tree/bootstrap"]
     },
     {
-      "title": "Peak Connect - Fullstack Social Media App",
+      "title": "Peak Connect",
       "imageSrc": "projects/social_media.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass", "MongoDB" ],
-      "demo": "https://www.example.com",
+      "skills": ["React", "Express", "Node", "MongoDB" ],
+      "demo": "https://github.com/yoanastamenova/Social_media--front",
       "source": "https://github.com/yoanastamenova/Social_media--front"
     },
     {
       "title": "Bulgarian Tavern",
       "imageSrc": "projects/restaurant.png",
-      "description": "Frontend project for one of my favourite bulgarian tavern restaurants in Spain. First use of library.",
+      "description": "Frontend project for one of my favourite bulgarian tavern restaurants in Spain.",
       "skills": ["Bootstrap", "CSS", "HTML"],
       "demo": "https://yoanastamenova.github.io/RestaurantMenu/",
       "source": "https://github.com/yoanastamenova/RestaurantMenu"
@@ -36,7 +36,7 @@
       "imageSrc": "projects/airbnb.png",
       "description": "A copy of the famous airbnb experiences website",
       "skills": ["React", "Figma", "HTML", "CSS", "NodeJS", "Javascript"],
-      "demo": "https://www.example.com",
+      "demo": "https://github.com/yoanastamenova/Airbnb-experiences",
       "source": "https://github.com/yoanastamenova/Airbnb-experiences"
     },
     {
